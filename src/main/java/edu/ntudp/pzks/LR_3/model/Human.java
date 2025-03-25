@@ -1,6 +1,7 @@
 package edu.ntudp.pzks.LR_3.model;
 
 
+
 public abstract class Human {
     private String firstName;
     private String lastName;
