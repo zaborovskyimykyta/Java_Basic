@@ -2,6 +2,7 @@ package edu.ntudp.pzks.LR_5.model;
 
 import java.time.LocalDate;
 
+
 public class Student {
     private int id;
     private String lastName;
