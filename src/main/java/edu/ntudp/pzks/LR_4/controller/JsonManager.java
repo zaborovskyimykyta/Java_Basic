@@ -8,6 +8,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
+
 public class JsonManager {
     private static final Gson gson = new GsonBuilder().setPrettyPrinting().create();
 

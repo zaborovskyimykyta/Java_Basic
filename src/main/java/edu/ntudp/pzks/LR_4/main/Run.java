@@ -4,6 +4,7 @@ package edu.ntudp.pzks.LR_4.main;
 import edu.ntudp.pzks.LR_4.controller.*;
 import edu.ntudp.pzks.LR_4.model.*;
 
+
 public class Run {
     public static void main(String[] args) {
         University university = createTypicalUniversity();

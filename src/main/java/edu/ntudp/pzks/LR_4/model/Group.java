@@ -3,6 +3,7 @@ package edu.ntudp.pzks.LR_4.model;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Group {
     private String name;
     private String departmentShortName;
