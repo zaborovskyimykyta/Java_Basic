@@ -1,0 +1,60 @@
+{
+  "name": "Національний університет",
+  "head": {
+    "firstName": "Іван",
+    "lastName": "Петров",
+    "middleName": "Олександрович",
+    "sex": "MALE"
+  },
+  "faculties": [
+    {
+      "name": "ФІТ",
+      "head": {
+        "firstName": "Ольга",
+        "lastName": "Коваль",
+        "middleName": "Миколаївна",
+        "sex": "FEMALE"
+      },
+      "departments": [
+        {
+          "name": "Програмна інженерія",
+          "shortName": "ПІ",
+          "head": {
+            "firstName": "Сергій",
+            "lastName": "Лисенко",
+            "middleName": "Павлович",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "ПІ-2023-1",
+              "departmentShortName": "ПІ",
+              "year": 2023,
+              "number": 1,
+              "head": {
+                "firstName": "Марія",
+                "lastName": "Гриценко",
+                "middleName": "Іванівна",
+                "sex": "FEMALE"
+              },
+              "students": [
+                {
+                  "firstName": "Андрій",
+                  "lastName": "Мельник",
+                  "middleName": "Володимирович",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Катерина",
+                  "lastName": "Шевченко",
+                  "middleName": "Андріївна",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
