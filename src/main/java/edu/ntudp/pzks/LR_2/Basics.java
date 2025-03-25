@@ -21,7 +21,7 @@ public class Basics {
         }
 
         int[][] matrix = new int[height][width];
-        System.out.print("Do you want to fill the matrix manually? (yes/no): ");
+        System.out.print("Do you want to fill the matrix manually? (yes / no): ");
         String choice = scanner.next();
 
         if (choice.equalsIgnoreCase("yes")) {
